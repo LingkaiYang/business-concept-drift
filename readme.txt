@@ -1,8 +1,8 @@
-This repository includes three types of concept drifts data:
+This repository includes three types of concept drifts data in control-flow for process mining:
 
-  1. Gradual changes in control-flow. A synthetic dataset of 18 event logs containing different types of gradual process drift.
-  2. Sudden changes in customer behaviour. One event log.
-  3. Gradual changes in customer behaviour. One event log.
+  1. Gradual changes in process structure. A synthetic dataset of 18 event logs containing different types of gradual process drift.
+  2. Sudden changes in customer behaviour. 8 event log.
+  3. Gradual changes in customer behaviour. 8 event log.
 
 All those data are artificially created based on the Abderrahmane Maaradji's datasets referring to a Loan Assessment process [1].
 The original data can be downloaded from https://data.4tu.nl/articles/dataset/Business_Process_Drift/12712436
